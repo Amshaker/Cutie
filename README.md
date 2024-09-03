@@ -23,10 +23,7 @@ https://github.com/hkchengrex/Cutie/assets/7107196/83a8abd5-369e-41a9-bb91-d9cc1
 
 ## Watch the Video
 
-<video width="600" controls>
-  <source src="https://raw.githubusercontent.com/Amshaker/MAVOS/main/source/basket_players.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+[![Watch the video](https://img.youtube.com/vi/VIDEO_ID/maxresdefault.jpg)](https://www.youtube.com/watch?v=wfIDLZ9aN3M)
 
 ## Installation
 
