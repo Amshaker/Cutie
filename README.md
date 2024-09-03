@@ -20,6 +20,14 @@ The GUI tool additionally contains the "permanent memory" (from [XMem++](https:/
 
 https://github.com/hkchengrex/Cutie/assets/7107196/83a8abd5-369e-41a9-bb91-d9cc1289af70
 
+
+## Watch the Video
+
+<video width="600" controls>
+  <source src="https://raw.githubusercontent.com/Amshaker/MAVOS/main/source/basket_players.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
 ## Installation
 
 Tested on Ubuntu only.
