@@ -23,7 +23,7 @@ https://github.com/hkchengrex/Cutie/assets/7107196/83a8abd5-369e-41a9-bb91-d9cc1
 
 ## Watch the Video
 
-[![Watch the video](https://img.youtube.com/vi/VIDEO_ID/maxresdefault.jpg)](https://www.youtube.com/watch?v=wfIDLZ9aN3M)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/wfIDLZ9aN3M/0.jpg)](https://www.youtube.com/watch?v=wfIDLZ9aN3M)
 
 ## Installation
 
